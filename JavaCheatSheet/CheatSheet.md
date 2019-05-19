@@ -11,7 +11,7 @@ Object oriented programming concepts
     uses the class.
 - **Inheritance** – this is concerned with the relationship between classes. The relationship takes
     the form of a parent and child. The child uses the methods defined in the parent class. The
-    main purpose of inheritance is; Re-usability– a number of children, can inherit from the same
+    main purpose of inheritance is; `Re-usability`– a number of children, can inherit from the same
     parent. This is very useful when we have to provide common functionality such as adding,
     updating and deleting data from the database.
 - **Polymorphism** – this is concerned with having a single form but many different
